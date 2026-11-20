@@ -1,11 +1,11 @@
 {
   "target_url": "https://vid18.my.id/",
   "android_update": {
-    "version_code": 23,
-    "version_name": "5.2.5",
+    "version_code": 24,
+    "version_name": "5.2.6",
     "apk_urls": {
-      "arm64-v8a": "https://vid18.my.id/vid18-v5.2.5-arm64-v8a-release.apk",
-      "armeabi-v7a": "https://vid18.my.id/vid18-v5.2.5-armeabi-v7a-release.apk"
+      "arm64-v8a": "https://vid18.my.id/vid18-v5.2.6-arm64-v8a-release.apk",
+      "armeabi-v7a": "https://vid18.my.id/vid18-v5.2.6-armeabi-v7a-release.apk"
     }
   }
 }
